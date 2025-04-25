@@ -6742,7 +6742,6 @@
 0.0.0.0 discord.broker
 0.0.0.0 discord.bug-form.com
 0.0.0.0 discord.build
-0.0.0.0 discord.builders
 0.0.0.0 discord.buzz
 0.0.0.0 discord.camera
 0.0.0.0 discord.capital
